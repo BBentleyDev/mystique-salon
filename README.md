@@ -1,5 +1,5 @@
 # Mystique Salon
-A clean, responsive website to promote the services of a local fitness center.
+A website design for an upscale salon.
 
 **Link to project:** https://mystiquesalon.netlify.app/
 
